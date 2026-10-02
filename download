@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+.vscode/
+.idea/
+*.mp4
+*.avi
+.DS_Store
+Thumbs.db
